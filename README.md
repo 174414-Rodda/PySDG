@@ -28,8 +28,6 @@
  -  pip install nltk
 
  - pip install pickle
-
- - pip install sklearn="0.22.2.post1"
  
  - import nltk
 
